@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on any project involving coding and am willing to learn.
-- 📫 How to reach me ...  etsubb14@gmail.com
+- 📫 How to reach me ...  etsubbeza20@gmail.com
 
 
 <!---
